@@ -1,0 +1,6 @@
+.vs/
+NUnit/bin
+NUnit/obj
+Tests/bin
+Tests/obj
+packages
